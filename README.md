@@ -1,6 +1,4 @@
-# LeetCode
-here i upload the ans for LeetCode questions
+<p align="center"><img width="40%" src="figures/leetcode.png" /></p>
+
+### here i upload the ans for LeetCode questions
 ----
-
-
-![LeetCode](https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png) [LeetCode](http://leetcode.com)
