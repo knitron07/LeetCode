@@ -3,5 +3,4 @@ here i upload the ans for LeetCode questions
 ----
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![LeetCode](https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png) [LeetCode](http://leetcode.com)
